@@ -281,27 +281,6 @@ Alongside academics, I'm using personal projects to turn these concepts into pra
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanbir413&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanbir413&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amanbir413/amanbir413/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
 ## 🤝 Let's Connect
 
 <p align="center">
