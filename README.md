@@ -101,22 +101,6 @@ I'm currently strengthening my fundamentals in:
 
 ---
 
-## ☁️ Cloud & DevOps Focus
-
-| Area           | Current Level          | What I'm Working On                               |
-| -------------- | ---------------------- | ------------------------------------------------- |
-| Linux          | 🟢 Hands-on            | CLI, permissions, processes, services, networking |
-| AWS            | 🟢 Hands-on            | EC2, cloud fundamentals, deployment               |
-| Docker         | 🟢 Hands-on            | Images, containers, Docker Compose                |
-| Git & GitHub   | 🟢 Hands-on            | Branching, workflows, repositories                |
-| GitHub Actions | 🟢 Hands-on            | CI/CD automation                                  |
-| Networking     | 🟢 Learning + Practice | TCP/IP, DNS, DHCP, NAT, VLANs, routing            |
-| Nginx          | 🟢 Hands-on            | Web serving & reverse-proxy fundamentals          |
-| Terraform      | 🟡 Learning            | Infrastructure as Code                            |
-| Kubernetes     | 🟡 Learning            | Container orchestration                           |
-| Cloud Security | 🟡 Exploring           | Security fundamentals & secure infrastructure     |
-
----
 
 ## 🚀 Featured Project
 
