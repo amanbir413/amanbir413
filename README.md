@@ -301,43 +301,6 @@ Alongside academics, I'm using personal projects to turn these concepts into pra
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amanbir413/amanbir413/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🔭 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Linux
-    - AWS
-    - Docker
-    - Networking
-    - Terraform
-    - Kubernetes
-    - Cloud Security
-
-  building:
-    - Cloud & DevOps projects
-    - CI/CD pipelines
-    - Linux-based infrastructure
-    - AWS deployments
-
-  exploring:
-    - Infrastructure as Code
-    - Container orchestration
-    - Monitoring & observability
-    - DevSecOps
-
-  open_to:
-    - Cloud internships
-    - DevOps internships
-    - Cloud projects
-    - Open-source collaboration
-```
-
----
 
 ## 🤝 Let's Connect
 
